@@ -23,40 +23,45 @@ A planilha é dividida em cinco abas principais:
 # 🛠️ Funcionalidades e Abas
 
 1. Dados do Titular (TITULAR)
+
 Estrutura padronizada para registro seguro e centralizado dos dados do indivíduo:
 
-Nome completo
-CPF e Título de Eleitor
-Data de Nascimento
-Nome do Cônjuge
-Endereço completo (Rua, Número, CEP)
-Informações de Contato (Telefone e Celular)
+- Nome completo
+- CPF e Título de Eleitor
+- Data de Nascimento
+- Nome do Cônjuge
+- Endereço completo (Rua, Número, CEP)
+- Informações de Contato (Telefone e Celular)
 
 2. Informes de Rendimentos (INFORMES)
+
 Área para acompanhamento de ativos e saldos bancários:
 
-Métrica Total: Soma automática ou consolidação de valores guardados/investidos.
-Detalhamento por Instituição: Seleção de instituição financeira (ex: C6 Bank, Santander, etc.), valor atual e referência/link para os arquivos de comprovante (.pdf).
+- Métrica Total: Soma automática ou consolidação de valores guardados/investidos.
+- Detalhamento por Instituição: Seleção de instituição financeira (ex: C6 Bank, Santander, etc.), valor atual e referência/link para os arquivos de comprovante (.pdf).
 
 3. Registro de Entradas (NOTAS)
+   
 Controle de receitas e entradas mensais de recursos:
 
-Data: Data exata da entrada financeira.
-Categoria: Classificação da receita (ex: Holerite, Rendimentos, Serviços, etc.).
-Valor: Montante recebido em moeda local.
+- Data: Data exata da entrada financeira.
+- Categoria: Classificação da receita (ex: Holerite, Rendimentos, Serviços, etc.).
+- Valor: Montante recebido em moeda local.
 
-4. Dados dos Dependentes
+4. Dados dos Dependentes (DEPENDENTES)
+
 Estrutura padronizada para registro seguro e centralizado dos dados do indivíduo:
 
-Nome completo
-CPF
-Data de Nascimento
-Parentesco
+- Nome completo
+- CPF
+- Data de Nascimento
+- Parentesco
 
 5. Tabelas de Apoio (TABELAS)
+
 Lista de referência usada para validações de dados nas demais abas:
 
-Lista oficial de Bancos (ex: 033 - Banco Santander, 260 - Nubank, 336 - C6 Bank, 104 - Caixa Econômica Federal, etc.).
+- Lista oficial de Bancos (ex: 033 - Banco Santander, 260 - Nubank, 336 - C6 Bank, 104 - Caixa Econômica Federal, etc.).
 
 
 # ✒️ Autor
